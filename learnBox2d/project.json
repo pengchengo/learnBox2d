@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "learnBox2d",
+  "id": "9d743c43-c92e-4297-bd87-b171adfafba3",
+  "version": "2.4.11",
+  "isNew": false
+}
